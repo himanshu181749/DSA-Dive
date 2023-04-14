@@ -1,4 +1,4 @@
-# 450-DSA Cracker 🚀
+# DSA Dive 🚀
 
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://450dsa.com/)
@@ -37,15 +37,9 @@
 - Better Responsive CSS
 - Better State Management
 
-## Run Locally 💻
 
-```
-git clone https://github.com/AsishRaju/450-DSA.git
-npm install
-npm start
-```
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/AsishRaju/450-DSA)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/himanshu181749/DSA-Dive)
 
 ## Credits 🙏🏻
 
